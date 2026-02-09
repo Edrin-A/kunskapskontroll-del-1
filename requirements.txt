@@ -1,0 +1,10 @@
+streamlit
+numpy
+pillow
+tensorflow-cpu
+google-genai
+pypdf
+youtube-transcript-api
+python-dotenv
+pandas
+matplotlib
